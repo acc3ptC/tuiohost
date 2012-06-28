@@ -26,7 +26,7 @@ It is assumed that a separate server is hosting the client application logic to 
 
 Coming soon. For a quick video of the package and its intended use please visit [here](http://vimeo.com/44835933 "Plugin-free TUIO in the Browser").
 
-![tuiohost image](tuiohost.png)
+![tuiohost image](./blob/master/tuiohost.png)
 
 # Credits
 
