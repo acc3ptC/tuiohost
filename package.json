@@ -1,0 +1,25 @@
+{
+  "name": "tuiohost",
+  "version": "0.0.2",
+  "private": true,
+
+  "description": "Multi-device TUIO adapter over socket.io",
+
+  "author": {
+    "name": "Jeff Wilson",
+    "email": "jjpwilso@connect.carleton.ca"
+  },
+
+  "dependencies": {
+    "socket.io": ">= 0.9.6",
+    "jspack": "*",
+    "underscore": "*"
+  },
+
+  "main": "app",
+
+  "engines": {
+    "node": ">= 0.8.0"
+  }  
+
+}
