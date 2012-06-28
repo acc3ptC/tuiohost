@@ -16,12 +16,18 @@ IE9, and Safari).
 It is assumed that a separate server is hosting the client application logic to bind its events
 (i.e. tuiostart, tuiomove, tuioend) to handlers in client-side javascript.
 
-# Credits
+# Installation
 
-Credit is definitely due to the makers of node-osc. I am just getting started with node.js. The initial target platform for this app is Windows, and with the "node-waf" requirement within that package I failed to find a way to install it. To get by for now, I embedded some
-of their code within this application. 
+1. Install [node.js](http://nodejs.org/) (>= 0.8.0)
+2. At the command line run:
+    npm install tuiohost
 
 # Examples
 
 Coming soon. For a quick video of the package and its intended use please visit [here](http://vimeo.com/44835933 "Plugin-free TUIO in the Browser").
+
+# Credits
+
+Credit is definitely due to the [makers of node-osc](https://github.com/TheAlphaNerd/node-osc "OSC protocol library for Node.js"). I am just getting started with node.js. The initial target platform for this app is Windows, and with the "node-waf" requirement within that package I failed to find a way to install it. To get by for now, I embedded some
+of their code within this application. Note that this is not an official fork, and future versions will either update their project or diverge altogether.
 
