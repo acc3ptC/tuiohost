@@ -1,10 +1,4 @@
-tuiohost
-========
-
-Multitouch TUIO Events to the Browser using node.js and socket.io
-
-Description
-===========
+# tuiohost
 
 TuioHost is (yet another) implementation of TUIO designed to provide web applications
 with a socket.io access point for multitouch events. 
@@ -22,8 +16,12 @@ IE9, and Safari).
 It is assumed that a separate server is hosting the client application logic to bind its events
 (i.e. tuiostart, tuiomove, tuioend) to handlers in client-side javascript.
 
-Examples
-========
+# Credits
 
-Coming soon.
+Credit is definitely due to the makers of node-osc. I am just getting started with node.js. The initial target platform for this app is Windows, and with the "node-waf" requirement within that package I failed to find a way to install it. To get by for now, I embedded some
+of their code within this application. 
+
+# Examples
+
+Coming soon. For a quick video of the package and its intended use please visit [here](http://vimeo.com/44835933 "Plugin-free TUIO in the Browser").
 
