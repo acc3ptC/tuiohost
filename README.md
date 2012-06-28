@@ -26,6 +26,8 @@ It is assumed that a separate server is hosting the client application logic to 
 
 Coming soon. For a quick video of the package and its intended use please visit [here](http://vimeo.com/44835933 "Plugin-free TUIO in the Browser").
 
+![tuiohost image](tuiohost.png)
+
 # Credits
 
 Credit is definitely due to the [makers of node-osc](https://github.com/TheAlphaNerd/node-osc "OSC protocol library for Node.js"). I am just getting started with node.js. The initial target platform for this app is Windows, and with the "node-waf" requirement within that package I failed to find a way to install it. To get by for now, I embedded some
